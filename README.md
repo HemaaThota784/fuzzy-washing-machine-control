@@ -28,26 +28,6 @@ matplotlib
 scipy
 ```
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/fuzzy-washing-machine.git
-cd fuzzy-washing-machine
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the program:
-```bash
-python fuzzy.py
-```
-
 Follow the interactive menu to:
 1. Calculate washing parameters for specific inputs
 2. Visualize 3D membership functions
